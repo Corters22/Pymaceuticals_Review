@@ -6,5 +6,5 @@ This data analysis consists of results from a study of mice with tumors and the 
 ## Data analysis
 
 The first part of the analysis was running a statistics summary on tumor volume across all drug regimens. The summary is pictured below.
-![Statistics Summary][matplotlib stat screenshot.png]
+![Statistics Summary](matplotlib stat screenshot.PNG)
 
